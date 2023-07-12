@@ -67,6 +67,63 @@ Kampus, farklı alanlarda projeler üretir. Her projemizde kişilerin ilgi alanl
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
 
+### Senchabot
+
+Kampus topluluğu olarak, heyecan verici bir proje olan Sencha Bot'u geliştirdik. Sencha Bot, Twitch ve Discord platformları için özel olarak tasarlanmış bir bot olarak karşımıza çıkıyor. Bu projemiz, kullanıcıların Twitch yayınlarını ve Discord sunucularını daha etkileşimli hale getirmeyi hedeflemektedir.
+
+Sencha Bot, açık kaynaklı bir projedir. Bu da demek oluyor ki, projemizin kaynak kodları herkesin erişimine açıktır ve katkıda bulunmak isteyen herkesin projeye destek olabilmesine olanak sağlar. Topluluğumuzun gücünü kullanarak, Sencha Bot'u daha da geliştirmek, yeni özellikler eklemek ve kullanıcıların geri bildirimlerine dayanarak iyileştirmeler yapmak için birlikte çalışırız.
+
+Sencha Bot, Kampus topluluğunun yaratıcılığını ve teknik becerilerini sergilemektedir. Herkesin katkı sağlayabileceği, yenilikçi bir projedir. Eğer Twitch yayıncısıysanız veya Discord sunucularında etkin bir şekilde yer alıyorsanız, Sencha Bot sizin için mükemmel bir araç olabilir.
+
+#### Senchabot Tech Stack
+
+##### Kaynak Kodu
+
+- SenchaBot'un açık kaynaklı GitHub deposu
+- SenchaBot'un yazılım kaynaklarını içeren depo yapısı ve dosyalar
+
+##### Kullanılan Programa Dili ve Framework'ler
+
+- Hangi programlama diliyle SenchaBot'un geliştirildiği (örn. Python, JavaScript)
+- Kullanılan Framework'ler ve kütüphaneler (örn. Discord.py, TwitchIO)
+
+##### Gereksinimler ve Bağımlılıklar
+
+- SenchaBot'u çalıştırmak için gereken yazılım, sürüm ve paketler
+- Dışa bağımlılıkların kurulumu ve yapılandırma adımları
+
+##### Kurulum ve Başlatma
+
+- SenchaBot'un yerel makinede nasıl kurulacağı ve yapılandırılacağı
+- Bağımlılıkların kurulumu ve SenchaBot'un başlatılması için adımlar
+
+##### Konfigürasyon
+
+- SenchaBot'un yapılandırma dosyalarının nasıl düzenleneceği
+- Bot tokeni, API anahtarları ve diğer gerekli bilgilerin yapılandırılması
+
+##### Komutlar ve Özellikler
+
+- SenchaBot tarafından desteklenen komutların ve özelliklerin açıklamaları
+- Kullanıcıların SenchaBot ile nasıl etkileşimde bulunabileceği
+
+##### Etkileşimli Modüller
+
+- SenchaBot'un Discord ve Twitch platformlarında nasıl etkileşimde bulunduğu
+- Discord sunucularında moderasyon, Twitch yayıncılarının yayınlarını nasıl yönettiği vb.
+
+##### Katkıda Bulunma
+
+- SenchaBot projesine nasıl katkıda bulunabileceğinizin açıklamaları
+- Pull talepleri, hata düzeltmeleri ve yeni özellik önerileri için süreç ve yönergeler
+
+#### Senchabot İnsan Kaynakları
+
+- (burada senchabot a katkı sağlayan kişiler ve görevleri yer alacak)
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+
 ------------
 
 ## İçerik Üreticileri
