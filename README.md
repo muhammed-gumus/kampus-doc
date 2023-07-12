@@ -69,11 +69,11 @@ Kampus, farklı alanlarda projeler üretir. Her projemizde kişilerin ilgi alanl
 
 ### Senchabot
 
-Kampus topluluğu olarak, heyecan verici bir proje olan Sencha Bot'u geliştirdik. Sencha Bot, Twitch ve Discord platformları için özel olarak tasarlanmış bir bot olarak karşımıza çıkıyor. Bu projemiz, kullanıcıların Twitch yayınlarını ve Discord sunucularını daha etkileşimli hale getirmeyi hedeflemektedir.
+Kampus topluluğu olarak, heyecan verici bir proje olan Senchabot'u geliştirdik. Senchabot, Twitch ve Discord platformları için özel olarak tasarlanmış bir bot olarak karşımıza çıkıyor. Bu projemiz, kullanıcıların Twitch yayınlarını ve Discord sunucularını daha etkileşimli hale getirmeyi hedeflemektedir.
 
-Sencha Bot, açık kaynaklı bir projedir. Bu da demek oluyor ki, projemizin kaynak kodları herkesin erişimine açıktır ve katkıda bulunmak isteyen herkesin projeye destek olabilmesine olanak sağlar. Topluluğumuzun gücünü kullanarak, Sencha Bot'u daha da geliştirmek, yeni özellikler eklemek ve kullanıcıların geri bildirimlerine dayanarak iyileştirmeler yapmak için birlikte çalışırız.
+Senchabot, açık kaynaklı bir projedir. Bu da demek oluyor ki, projemizin kaynak kodları herkesin erişimine açıktır ve katkıda bulunmak isteyen herkesin projeye destek olabilmesine olanak sağlar. Topluluğumuzun gücünü kullanarak, Senchabot'u daha da geliştirmek, yeni özellikler eklemek ve kullanıcıların geri bildirimlerine dayanarak iyileştirmeler yapmak için birlikte çalışırız.
 
-Sencha Bot, Kampus topluluğunun yaratıcılığını ve teknik becerilerini sergilemektedir. Herkesin katkı sağlayabileceği, yenilikçi bir projedir. Eğer Twitch yayıncısıysanız veya Discord sunucularında etkin bir şekilde yer alıyorsanız, Sencha Bot sizin için mükemmel bir araç olabilir.
+Senchabot, Kampus topluluğunun yaratıcılığını ve teknik becerilerini sergilemektedir. Herkesin katkı sağlayabileceği, yenilikçi bir projedir. Eğer Twitch yayıncısıysanız veya Discord sunucularında etkin bir şekilde yer alıyorsanız, Senchabot sizin için mükemmel bir araç olabilir.
 
 #### Senchabot Tech Stack
 
