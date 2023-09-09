@@ -6,9 +6,6 @@ Ortamlardaki pek şukela **creator** topluluğu.
 |:------------- |
 | Biz Kimiz?|
 | Neler Yapıyoruz?|
-| Kampus Projeleri|
-| İçerik Üreticileri|
-| Bize Katıl|
 
 ## Biz Kimiz?
 Kampus, heyecan verici bir topluluktur ve teknolojiye meraklı olan herkesin bir araya geldiği bir ailedir. Biz, yenilikçi fikirlerin yeşerdiği, projelerin hayata geçirildiği ve işbirliklerinin geliştiği bir platformuz.
